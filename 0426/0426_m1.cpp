@@ -56,3 +56,18 @@ int main()
 
 	return 0;
 }
+
+// 1글자만 판단
+//string name = "jo2hn*897";
+//for (int i = 0; i < name.length(); i++)
+//{
+//	cout << name[i] << " : " << isdigit(name[i]) << endl;
+//	if (isdigit(name[i]) != 0) // 숫자 O
+//	{
+//	}
+//	if (isdigit(name[i]) == 0) // 숫자 X
+//	{
+//	}
+//}
+//isdigit();
+//isalpha();
