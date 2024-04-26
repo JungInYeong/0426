@@ -16,9 +16,11 @@ int main()
 		if (num == -1) break;
 		n.push_back(num);
 	}
+	
+	cout << endl;
 
 	//크기 출력
-	cout << n.size() << endl;
+	cout << "크기 : " << n.size() << endl;
 	
 	cout << endl;
 
@@ -30,7 +32,8 @@ int main()
 		if (i > max) { max = i; }
 	}
 	cout << endl;
-	cout << max;
+	cout << endl;
+	cout << "최대" << max;
 
 	cout << endl;
 	cout << endl;
