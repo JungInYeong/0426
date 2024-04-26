@@ -20,7 +20,7 @@ int main()
 	
 	cout << endl;
 
-	//크기 출력
+	//크기 출력0426
 	cout << "크기 : " << n.size() << endl;
 	
 	cout << endl;
