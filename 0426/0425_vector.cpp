@@ -8,6 +8,7 @@ int main()
 	vector<int>n;
 	int max = 0;
 
+	// 정수 입력후 -1 입력하면 다음으로 넘어가짐
 	while (1)
 	{
 		int num;
